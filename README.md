@@ -20,7 +20,7 @@ API: flask
 ### Клонируем репозиторий и создаем образ
 ```
 $ git clone https://github.com/natalyaburmistrova91/ML-in-Business_Course-project.git
-$ cd GB_docker_flask
+$ cd ML-in-Business_Course-project
 $ docker build -t gb_docker_flask .
 ```
 
